@@ -30,6 +30,8 @@ This installs all required packages including Expo SDK, React Native, and animat
 
 ```bash
 npx expo start
+or 
+npx expo start --tunnel
 ```
 
 You'll see a QR code in the terminal.
@@ -152,4 +154,4 @@ Update Expo Go from the App Store / Play Store
 
 ---
 
-Built with ❤️ using React Native + Expo
+Built with Harshita and yashwant
